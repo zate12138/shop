@@ -1,0 +1,626 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "新品",
+            "list": [
+                {
+                    "id": "11",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "12",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "13",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "14",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "15",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "16",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "17",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "18",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "19",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "20",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "21",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "22",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "手机",
+            "list": [
+                {
+                    "id": "21",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "22",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "23",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "24",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "25",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "26",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "电视",
+            "list": [
+                {
+                    "id": "31",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "32",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "33",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "34",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "35",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "36",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "电脑",
+            "list": [
+                {
+                    "id": "41",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "42",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "43",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "44",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "45",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "46",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "家电",
+            "list": [
+                {
+                    "id": "51",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "52",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "53",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "54",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "55",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "56",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "路由",
+            "list": [
+                {
+                    "id": "61",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "62",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "63",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "64",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "65",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "66",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "智能",
+            "list": [
+                {
+                    "id": "71",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "72",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "73",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "74",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "75",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "76",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "儿童",
+            "list": [
+                {
+                    "id": "81",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "82",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "83",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "84",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "85",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "86",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "电源",
+            "list": [
+                {
+                    "id": "91",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "92",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "93",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "94",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "95",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "96",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "耳机",
+            "list": [
+                {
+                    "id": "101",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "102",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "103",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "104",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "105",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "106",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "音箱",
+            "list": [
+                {
+                    "id": "111",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "112",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "113",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "114",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "115",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "116",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "礼品",
+            "list": [
+                {
+                    "id": "121",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "122",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "123",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "124",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "125",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "126",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "生活",
+            "list": [
+                {
+                    "id": "131",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "132",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "133",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "134",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "135",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "136",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "服务",
+            "list": [
+                {
+                    "id": "141",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "142",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "143",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "144",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "145",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "146",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "米粉卡",
+            "list": [
+                {
+                    "id": "151",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "152",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "153",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "154",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "155",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "156",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "titleImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "name": "零售店",
+            "list": [
+                {
+                    "id": "161",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "162",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "163",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "164",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "165",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {
+                    "id": "166",
+                    "name": "50英寸 4C",
+                    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                }
+            ]
+        }
+    ]
+}

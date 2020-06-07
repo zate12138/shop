@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "invalid": false
+        },
+        {
+            "id": "2",
+            "invalid": true
+        },
+        {
+            "id": "3",
+            "invalid": false
+        },
+        {
+            "id": "4",
+            "invalid": true
+        }
+    ]
+}
